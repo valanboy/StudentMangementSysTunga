@@ -8,6 +8,7 @@ A simple react project where we List students, View student details on a separat
 #### How to consume
 **(i).**   clone git repository into your preferred location folder
 **(ii).**  run **npm install** in your project terminal
-**(iii).** run **"npm run dev"** to start your server and view in your browser
-##### contact
+**(iii).** run **"npm run dev"** to start your server
+**(iv). Vite will display a local development URL, usually **http://localhost:5173** If that doesn't open automatically, copy and paste the URL into your browser.
+##### contact me if you have any issues
 believegilbert20@gmail.com 
