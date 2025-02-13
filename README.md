@@ -3,8 +3,9 @@ A simple react project where we List students, View student details on a separat
 #### Technologies
 **(i).**   react.js using vite
 **(ii).**  typescript
-**(iii).** dummy json database to store student details
-**(iv).**  redux for state management 
+**(iii).** tailwindCSS
+**(iv).** dummy json database to store student details
+**(v).**  redux for state management 
 #### How to consume
 **(i).**   clone git repository into your preferred location folder
 **(ii).**  run **npm install** in your project terminal
